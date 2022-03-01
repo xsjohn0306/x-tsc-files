@@ -1,0 +1,21 @@
+{
+  "name": "x-tsc-files",
+  "version": "1.0.0",
+  "description": "A tiny tool to run tsc on specific files without ignoring tsconfig.json",
+  "repository": "github:xsjohn0306/x-tsc-files",
+  "bin": {
+    "x-tsc-files": "lib/index.js"
+  },
+  "files": [
+    "lib"
+  ],
+  "peerDependencies": {
+    "typescript": ">=3"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "11.0.0",
+    "@commitlint/config-conventional": "11.0.0",
+    "husky": "4.3.6",
+    "typescript": "4.1.3"
+  }
+}
