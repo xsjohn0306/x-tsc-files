@@ -1,6 +1,6 @@
 {
   "name": "x-tsc-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny tool to run tsc on specific files without ignoring tsconfig.json",
   "repository": "github:xsjohn0306/x-tsc-files",
   "bin": {
